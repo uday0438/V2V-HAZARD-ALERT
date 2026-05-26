@@ -25,9 +25,7 @@ The project enables vehicles to instantly transmit emergency warnings such as ac
 - Reliable Communication in Dynamic Environments
 
 ## System Architecture
-Vehicle A (Button/Sensor) → ESP32 → SX1278 LoRa 
-)))) Wireless Transmission (((( 
-SX1278 LoRa → ESP32 → OLED + Buzzer + LEDs → Vehicle B
+![System Architecture](docs/Block_Diagram.png)
 
 ## Circuit Diagram
 ![Circuit Diagram](hardware/circuit_diagram/circuit_diagram1.png)
