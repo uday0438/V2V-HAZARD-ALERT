@@ -1,5 +1,9 @@
 # V2V HAZARD ALERT
 
+<p align="center">
+  <img src="images/banner.png" alt="V2V Hazard Alert Banner">
+</p>
+
 ## Overview
 Infrastructure-independent LoRa-based Vehicle-to-Vehicle hazard communication system using ESP32 and SX1278 for real-time hazard alert transmission and intelligent road safety applications.
 
@@ -24,6 +28,9 @@ The project enables vehicles to instantly transmit emergency warnings such as ac
 Vehicle A (Button/Sensor) → ESP32 → SX1278 LoRa 
 )))) Wireless Transmission (((( 
 SX1278 LoRa → ESP32 → OLED + Buzzer + LEDs → Vehicle B
+
+## Circuit Diagram
+![Circuit Diagram](hardware/circuit_diagram/circuit_diagram.png)
 
 ## Working Principle
 1. **Detect hazard:** The driver presses an emergency or hazard button when a dangerous situation occurs (e.g. sudden braking, accident).
