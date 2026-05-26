@@ -7,6 +7,8 @@
 ## Overview
 Infrastructure-independent LoRa-based Vehicle-to-Vehicle hazard communication system using ESP32 and SX1278 for real-time hazard alert transmission and intelligent road safety applications.
 
+**📄 [Read the Full Project Report (DOCX)](docs/DOC.docx)**
+
 V2V HAZARD ALERT is an infrastructure-independent Vehicle-to-Vehicle (V2V) communication system designed to improve road safety through real-time wireless hazard alert transmission using LoRa technology. The system leverages ESP32 microcontrollers and SX1278 LoRa modules to establish long-range, low-power peer-to-peer communication between vehicles without relying on cellular networks or roadside infrastructure.
 
 The project enables vehicles to instantly transmit emergency warnings such as accidents, sudden braking, roadblocks, fog conditions, or hazardous situations to nearby vehicles. Upon receiving an alert, the system provides immediate audiovisual feedback through an OLED display, buzzer, and LED indicators, allowing drivers to react quickly and reduce the probability of collisions.
