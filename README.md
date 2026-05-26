@@ -42,6 +42,13 @@ The project enables vehicles to instantly transmit emergency warnings such as ac
 - 400–500m LOS Communication
 - 300m NLOS Communication
 
+### Prototype Hardware Testing
+<p align="center">
+  <img src="results/result1.png" width="32%" alt="Hardware Testing 1">
+  <img src="results/result2.png" width="32%" alt="Hardware Testing 2">
+  <img src="results/result3.png" width="32%" alt="Hardware Testing 3">
+</p>
+
 ## Future Scope
 - GPS Integration
 - Automatic Accident Detection
