@@ -1,0 +1,7 @@
+*.exe
+*.hex
+*.bin
+*.tmp
+*.log
+.vscode/
+.idea/
