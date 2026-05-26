@@ -30,7 +30,7 @@ Vehicle A (Button/Sensor) → ESP32 → SX1278 LoRa
 SX1278 LoRa → ESP32 → OLED + Buzzer + LEDs → Vehicle B
 
 ## Circuit Diagram
-![Circuit Diagram](hardware/circuit_diagram/circuit_diagram.png)
+![Circuit Diagram](hardware/circuit_diagram/circuit_diagram1.png)
 
 ## Working Principle
 1. **Detect hazard:** The driver presses an emergency or hazard button when a dangerous situation occurs (e.g. sudden braking, accident).
